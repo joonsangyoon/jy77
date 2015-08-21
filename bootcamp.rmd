@@ -13,7 +13,7 @@ library(ggplot2)
 
 load the data
 ```{r}
-gap <- read.csv(curl("http://bit.ly/gap_data"))
+gap<- read.csv(curl("http://bit.ly/gap_data_upd"))
 ```
 
 ```{r}
