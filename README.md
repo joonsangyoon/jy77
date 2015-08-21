@@ -1,4 +1,4 @@
 # jy77
 DSS Computing BootCamp
 
-Author - Jun Yoon (jun.yoon77@gmail.com) 
+Author - Jun Yoon (jy77@stat.duke.edu) 
